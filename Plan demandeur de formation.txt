@@ -1,0 +1,8 @@
+1- Choose the language 
+2- Fill the form 
+   + IF Email && Phone number dont exist : 
+2-a: go to Register.php to insert form data to table Participants
+   + IF Email OR Phone number exist in the same table 
+2-b: go to already.php to write that the participant already registered to the same course and redirect to formator.php
+
+3- Reach formator.php to show the informations of the formator.

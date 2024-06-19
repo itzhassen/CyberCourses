@@ -1,0 +1,5 @@
+1- Bouton dans tout les pages 'Espace Admin' dirige vers login.php
+2- Formulaire login: 
+   a : if login found and profile == "admin" -> header to admin.php
+   b : if login not found or profile != "admin" -> header to index.html with message
+3- admin.php contains a menu 
